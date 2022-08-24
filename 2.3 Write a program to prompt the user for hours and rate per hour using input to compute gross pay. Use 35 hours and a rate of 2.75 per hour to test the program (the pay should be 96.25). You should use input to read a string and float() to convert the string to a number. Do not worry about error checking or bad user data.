@@ -1,0 +1,7 @@
+# Aware of Case Sensitive while typing
+
+hrs =input("Enter Hours:")
+rate=input("Enter rate per hour")
+Pay=float(hrs)*float(rate)
+
+print("Pay:",Pay)
