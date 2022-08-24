@@ -1,0 +1,3 @@
+#enter exact name as mentioned above
+name = input("Enter your name")
+print("Hello "+name)
